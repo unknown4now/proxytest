@@ -34,7 +34,6 @@ hotmail.com.vn:imap-mail.outlook.com:993
 hotmail.com.vn:outlook.office365.com:993
 hotmail.com:imap-mail.outlook.com:993
 hotmail.com:outlook.office365.com:993
-hotmail.com:smtp-mail.outlook.com
 hotmail.cz:outlook.office365.com:993
 hotmail.de:imap-mail.outlook.com:993
 hotmail.de:outlook.office365.com:993
